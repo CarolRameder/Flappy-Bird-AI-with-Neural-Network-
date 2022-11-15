@@ -1,4 +1,4 @@
-# Flappy-Bird-AI-with-Neural-Network-
+# Flappy-Bird-Reinforcement-learning
 
 
 The purpose of the project is understanding how an agent receive different awards,
